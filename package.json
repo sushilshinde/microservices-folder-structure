@@ -10,8 +10,8 @@
   "scripts": {
     "load-env-unix":". ../env",
     "load-env-win":"call ../env.bat",
-    "local-unix-start":"npm run load-env && npm start",
-    "local-win-start":"npm run load-env && npm start",
+    "local-unix":"npm run load-env-unix && npm start",
+    "local-win":"npm run load-env-win && npm start",
     "start": "node app.js",
     "change-doppler-env":"doppler setup",
     "with-doppler":"doppler run --command=\"npm start\""
