@@ -9,7 +9,7 @@ Trying to create common folder structure for the microservices projects (NodeJS/
 - Testing artifacts
 - Configuration
 - Dockerization 
-- CICD Config and deployment scripts
+- CICD Config and deployment  scripts
 
 ## To run this project locally run these commands
 
