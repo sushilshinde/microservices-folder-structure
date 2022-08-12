@@ -7,6 +7,8 @@ const port = config.PORT
 
 app.use(routes)
 
+console.log(config.DB_URL)
+
 app.listen(port, () => {
   console.log(`Server is running on ${port}`)
 })

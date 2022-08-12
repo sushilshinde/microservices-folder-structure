@@ -16,4 +16,7 @@ module.exports = {
   },
 
   EMAIL_FROM: process.env.EMAIL_FROM || 'no-reply@somedomain.com',
+
+  //this is coming from doppler
+  DB_URL: process.env.DB_URL
 }
