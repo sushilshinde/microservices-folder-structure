@@ -11,7 +11,7 @@ Trying to create common folder structure for the microservices projects (NodeJS/
 - Dockerization 
 - CICD Config and deployment scripts
 
-## To run locally run these commands
+## To run this project locally run these commands
 
 ### In development mode
 
